@@ -1,0 +1,153 @@
+,instanceType,instanceFamily,OS,ecu,vcpu,memory,normSizeFactor,storage,physicalProcessor,ebsMbps,ebsIsUpTo,netGbps,netIsUpTo
+126,m5.12xlarge,General purpose,RHEL,173.0,48,192.0,96,EBS only,Intel Xeon Platinum 8175,6000.0,False,10.0,False
+148,c5.4xlarge,Compute optimized,Windows,68.0,16,32.0,32,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+462,r4.16xlarge,Memory optimized,SUSE,195.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),12000.0,False,20.0,False
+633,p3.2xlarge,GPU instance,SUSE,26.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1750.0,False,10.0,True
+679,c5.2xlarge,Compute optimized,Windows,34.0,8,16.0,16,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+1342,p2.xlarge,GPU instance,SUSE,12.0,4,61.0,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,1.0,False
+1544,m5.2xlarge,General purpose,Windows,31.0,8,32.0,16,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+1573,m5.xlarge,General purpose,Linux,16.0,4,16.0,8,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+1860,m4.4xlarge,General purpose,SUSE,53.5,16,64.0,32,EBS only,Intel Xeon E5-2676 v3 (Haswell),2000.0,False,1.0,False
+4457,m4.10xlarge,General purpose,SUSE,124.5,40,160.0,80,EBS only,Intel Xeon E5-2676 v3 (Haswell),4000.0,False,10.0,False
+5288,m5.4xlarge,General purpose,SUSE,60.0,16,64.0,32,EBS only,Intel Xeon Platinum 8175,2120.0,False,10.0,True
+5433,g3.16xlarge,GPU instance,Linux,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,20.0,False
+5833,p3.8xlarge,GPU instance,SUSE,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+6081,r4.xlarge,Memory optimized,SUSE,13.5,4,30.5,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),800.0,False,10.0,True
+6130,p3.8xlarge,GPU instance,Windows,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+7018,m5.4xlarge,General purpose,Windows,60.0,16,64.0,32,EBS only,Intel Xeon Platinum 8175,2120.0,False,10.0,True
+7043,m4.large,General purpose,RHEL,6.5,2,8.0,4,EBS only,Intel Xeon E5-2676 v3 (Haswell),450.0,False,0.3,False
+7204,m5.large,General purpose,SUSE,8.0,2,8.0,4,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+7783,r4.8xlarge,Memory optimized,SUSE,99.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),6000.0,False,10.0,False
+8299,r4.16xlarge,Memory optimized,Linux,195.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),12000.0,False,20.0,False
+8405,m5.large,General purpose,Windows,8.0,2,8.0,4,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+8773,p2.xlarge,GPU instance,Windows,12.0,4,61.0,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,1.0,False
+9183,m4.large,General purpose,Linux,6.5,2,8.0,4,EBS only,Intel Xeon E5-2676 v3 (Haswell),450.0,False,0.3,False
+9624,c5.large,Compute optimized,RHEL,9.0,2,4.0,4,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+9691,c4.xlarge,Compute optimized,SUSE,16.0,4,7.5,8,EBS only,Intel Xeon E5-2666 v3 (Haswell),750.0,False,1.0,False
+9957,m5.large,General purpose,Linux,8.0,2,8.0,4,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+10162,r4.2xlarge,Memory optimized,RHEL,27.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1600.0,False,10.0,True
+10388,m5.xlarge,General purpose,Windows,16.0,4,16.0,8,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+10552,p2.8xlarge,GPU instance,SUSE,94.0,32,488.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,10.0,False
+10717,m4.large,General purpose,SUSE,6.5,2,8.0,4,EBS only,Intel Xeon E5-2676 v3 (Haswell),450.0,False,0.3,False
+11152,m4.4xlarge,General purpose,RHEL,53.5,16,64.0,32,EBS only,Intel Xeon E5-2676 v3 (Haswell),2000.0,False,1.0,False
+11214,p2.16xlarge,GPU instance,Linux,188.0,64,768.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,20.0,False
+11525,m5.4xlarge,General purpose,Linux,60.0,16,64.0,32,EBS only,Intel Xeon Platinum 8175,2120.0,False,10.0,True
+11894,c5.18xlarge,Compute optimized,Linux,281.0,72,144.0,144,EBS only,Intel Xeon Platinum 8124M,9000.0,False,25.0,False
+12170,m4.16xlarge,General purpose,Linux,188.0,64,256.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),10000.0,False,20.0,False
+12177,r4.large,Memory optimized,Windows,7.0,2,15.25,4,EBS only,Intel Xeon E5-2686 v4 (Broadwell),400.0,False,10.0,True
+12385,c5.4xlarge,Compute optimized,SUSE,68.0,16,32.0,32,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+12744,g3.4xlarge,GPU instance,SUSE,47.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3500.0,False,10.0,True
+12849,g3.4xlarge,GPU instance,Windows,47.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3500.0,False,10.0,True
+12990,c4.8xlarge,Compute optimized,SUSE,132.0,36,60.0,64,EBS only,Intel Xeon E5-2666 v3 (Haswell),4000.0,False,10.0,False
+13444,c5.2xlarge,Compute optimized,Linux,34.0,8,16.0,16,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+13917,p2.16xlarge,GPU instance,RHEL,188.0,64,768.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,20.0,False
+14343,r4.xlarge,Memory optimized,Windows,13.5,4,30.5,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),800.0,False,10.0,True
+14460,m4.16xlarge,General purpose,RHEL,188.0,64,256.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),10000.0,False,20.0,False
+15537,p3.16xlarge,GPU instance,Windows,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,25.0,False
+15784,c5.9xlarge,Compute optimized,Windows,141.0,36,72.0,72,EBS only,Intel Xeon Platinum 8124M,4500.0,False,10.0,False
+16490,p2.16xlarge,GPU instance,Windows,188.0,64,768.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,20.0,False
+17003,c4.4xlarge,Compute optimized,RHEL,62.0,16,30.0,32,EBS only,Intel Xeon E5-2666 v3 (Haswell),2000.0,False,1.0,False
+17266,r4.8xlarge,Memory optimized,Windows,99.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),6000.0,False,10.0,False
+17333,m4.large,General purpose,Windows,6.5,2,8.0,4,EBS only,Intel Xeon E5-2676 v3 (Haswell),450.0,False,0.3,False
+17663,c4.xlarge,Compute optimized,RHEL,16.0,4,7.5,8,EBS only,Intel Xeon E5-2666 v3 (Haswell),750.0,False,1.0,False
+17799,c4.4xlarge,Compute optimized,SUSE,62.0,16,30.0,32,EBS only,Intel Xeon E5-2666 v3 (Haswell),2000.0,False,1.0,False
+17939,c4.2xlarge,Compute optimized,SUSE,31.0,8,15.0,16,EBS only,Intel Xeon E5-2666 v3 (Haswell),1000.0,False,1.0,False
+18535,m5.24xlarge,General purpose,Linux,345.0,96,384.0,192,EBS only,Intel Xeon Platinum 8175,12000.0,False,25.0,False
+19054,g3.8xlarge,GPU instance,Windows,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+19191,c5.2xlarge,Compute optimized,RHEL,34.0,8,16.0,16,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+19803,r4.large,Memory optimized,Linux,7.0,2,15.25,4,EBS only,Intel Xeon E5-2686 v4 (Broadwell),400.0,False,10.0,True
+19886,r4.8xlarge,Memory optimized,RHEL,99.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),6000.0,False,10.0,False
+20497,r4.large,Memory optimized,RHEL,7.0,2,15.25,4,EBS only,Intel Xeon E5-2686 v4 (Broadwell),400.0,False,10.0,True
+20648,m4.xlarge,General purpose,Linux,13.0,4,16.0,8,EBS only,Intel Xeon E5-2676 v3 (Haswell),750.0,False,1.0,False
+20859,m5.xlarge,General purpose,RHEL,16.0,4,16.0,8,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+20926,c4.xlarge,Compute optimized,Linux,16.0,4,7.5,8,EBS only,Intel Xeon E5-2666 v3 (Haswell),750.0,False,1.0,False
+21728,c4.large,Compute optimized,Linux,8.0,2,3.75,4,EBS only,Intel Xeon E5-2666 v3 (Haswell),500.0,False,0.3,False
+21758,m4.16xlarge,General purpose,Windows,188.0,64,256.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),10000.0,False,20.0,False
+21858,c5.9xlarge,Compute optimized,RHEL,141.0,36,72.0,72,EBS only,Intel Xeon Platinum 8124M,4500.0,False,10.0,False
+22500,c4.4xlarge,Compute optimized,Windows,62.0,16,30.0,32,EBS only,Intel Xeon E5-2666 v3 (Haswell),2000.0,False,1.0,False
+22653,m5.12xlarge,General purpose,Windows,173.0,48,192.0,96,EBS only,Intel Xeon Platinum 8175,6000.0,False,10.0,False
+23000,m5.4xlarge,General purpose,RHEL,60.0,16,64.0,32,EBS only,Intel Xeon Platinum 8175,2120.0,False,10.0,True
+23250,p3.2xlarge,GPU instance,Windows,26.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1750.0,False,10.0,True
+23443,m5.12xlarge,General purpose,Linux,173.0,48,192.0,96,EBS only,Intel Xeon Platinum 8175,6000.0,False,10.0,False
+23618,c5.large,Compute optimized,Windows,9.0,2,4.0,4,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+23673,p2.8xlarge,GPU instance,RHEL,94.0,32,488.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,10.0,False
+23708,r4.large,Memory optimized,SUSE,7.0,2,15.25,4,EBS only,Intel Xeon E5-2686 v4 (Broadwell),400.0,False,10.0,True
+24262,r4.16xlarge,Memory optimized,Windows,195.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),12000.0,False,20.0,False
+24692,c4.8xlarge,Compute optimized,RHEL,132.0,36,60.0,64,EBS only,Intel Xeon E5-2666 v3 (Haswell),4000.0,False,10.0,False
+24741,c4.large,Compute optimized,RHEL,8.0,2,3.75,4,EBS only,Intel Xeon E5-2666 v3 (Haswell),500.0,False,0.3,False
+24963,m5.2xlarge,General purpose,RHEL,31.0,8,32.0,16,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+25762,m5.12xlarge,General purpose,SUSE,173.0,48,192.0,96,EBS only,Intel Xeon Platinum 8175,6000.0,False,10.0,False
+25820,m4.4xlarge,General purpose,Linux,53.5,16,64.0,32,EBS only,Intel Xeon E5-2676 v3 (Haswell),2000.0,False,1.0,False
+26015,c5.18xlarge,Compute optimized,RHEL,281.0,72,144.0,144,EBS only,Intel Xeon Platinum 8124M,9000.0,False,25.0,False
+26109,m4.16xlarge,General purpose,SUSE,188.0,64,256.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),10000.0,False,20.0,False
+26188,r4.2xlarge,Memory optimized,Linux,27.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1600.0,False,10.0,True
+26324,g3.16xlarge,GPU instance,Windows,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,20.0,False
+26521,m4.2xlarge,General purpose,RHEL,26.0,8,32.0,16,EBS only,Intel Xeon E5-2676 v3 (Haswell),1000.0,False,1.0,False
+26570,p2.16xlarge,GPU instance,SUSE,188.0,64,768.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,20.0,False
+27360,c4.2xlarge,Compute optimized,RHEL,31.0,8,15.0,16,EBS only,Intel Xeon E5-2666 v3 (Haswell),1000.0,False,1.0,False
+27382,c4.4xlarge,Compute optimized,Linux,62.0,16,30.0,32,EBS only,Intel Xeon E5-2666 v3 (Haswell),2000.0,False,1.0,False
+27965,p3.16xlarge,GPU instance,Linux,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,25.0,False
+28035,c4.2xlarge,Compute optimized,Linux,31.0,8,15.0,16,EBS only,Intel Xeon E5-2666 v3 (Haswell),1000.0,False,1.0,False
+28202,r4.2xlarge,Memory optimized,SUSE,27.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1600.0,False,10.0,True
+28731,m4.4xlarge,General purpose,Windows,53.5,16,64.0,32,EBS only,Intel Xeon E5-2676 v3 (Haswell),2000.0,False,1.0,False
+29301,p3.8xlarge,GPU instance,Linux,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+29392,p2.xlarge,GPU instance,RHEL,12.0,4,61.0,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,1.0,False
+29495,r4.4xlarge,Memory optimized,SUSE,53.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3000.0,False,10.0,True
+29686,g3.4xlarge,GPU instance,Linux,47.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3500.0,False,10.0,True
+29882,g3.8xlarge,GPU instance,RHEL,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+30511,c5.xlarge,Compute optimized,Windows,17.0,4,8.0,8,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+30776,c5.xlarge,Compute optimized,Linux,17.0,4,8.0,8,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+31136,r4.2xlarge,Memory optimized,Windows,27.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1600.0,False,10.0,True
+31140,c5.2xlarge,Compute optimized,SUSE,34.0,8,16.0,16,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+32024,m5.24xlarge,General purpose,RHEL,345.0,96,384.0,192,EBS only,Intel Xeon Platinum 8175,12000.0,False,25.0,False
+32191,p3.2xlarge,GPU instance,Linux,26.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1750.0,False,10.0,True
+32765,c5.4xlarge,Compute optimized,RHEL,68.0,16,32.0,32,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+32877,m4.xlarge,General purpose,SUSE,13.0,4,16.0,8,EBS only,Intel Xeon E5-2676 v3 (Haswell),750.0,False,1.0,False
+33562,p2.8xlarge,GPU instance,Linux,94.0,32,488.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,10.0,False
+33627,c5.large,Compute optimized,SUSE,9.0,2,4.0,4,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+33757,c5.9xlarge,Compute optimized,SUSE,141.0,36,72.0,72,EBS only,Intel Xeon Platinum 8124M,4500.0,False,10.0,False
+34055,c4.2xlarge,Compute optimized,Windows,31.0,8,15.0,16,EBS only,Intel Xeon E5-2666 v3 (Haswell),1000.0,False,1.0,False
+34625,m5.xlarge,General purpose,SUSE,16.0,4,16.0,8,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+35102,r4.8xlarge,Memory optimized,Linux,99.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),6000.0,False,10.0,False
+35421,c5.xlarge,Compute optimized,SUSE,17.0,4,8.0,8,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+35477,p3.16xlarge,GPU instance,RHEL,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,25.0,False
+35644,r4.4xlarge,Memory optimized,Linux,53.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3000.0,False,10.0,True
+35764,c5.xlarge,Compute optimized,RHEL,17.0,4,8.0,8,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+36332,g3.8xlarge,GPU instance,SUSE,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+36514,p3.8xlarge,GPU instance,RHEL,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+36581,m4.10xlarge,General purpose,RHEL,124.5,40,160.0,80,EBS only,Intel Xeon E5-2676 v3 (Haswell),4000.0,False,10.0,False
+36659,c4.8xlarge,Compute optimized,Linux,132.0,36,60.0,64,EBS only,Intel Xeon E5-2666 v3 (Haswell),4000.0,False,10.0,False
+36711,p2.8xlarge,GPU instance,Windows,94.0,32,488.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,10.0,False
+37017,r4.xlarge,Memory optimized,RHEL,13.5,4,30.5,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),800.0,False,10.0,True
+37285,g3.8xlarge,GPU instance,Linux,94.0,32,244.0,64,EBS only,Intel Xeon E5-2686 v4 (Broadwell),7000.0,False,10.0,False
+37341,m5.large,General purpose,RHEL,8.0,2,8.0,4,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+37598,m5.24xlarge,General purpose,SUSE,345.0,96,384.0,192,EBS only,Intel Xeon Platinum 8175,12000.0,False,25.0,False
+37875,c5.4xlarge,Compute optimized,Linux,68.0,16,32.0,32,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+37902,m5.24xlarge,General purpose,Windows,345.0,96,384.0,192,EBS only,Intel Xeon Platinum 8175,12000.0,False,25.0,False
+37930,m4.xlarge,General purpose,RHEL,13.0,4,16.0,8,EBS only,Intel Xeon E5-2676 v3 (Haswell),750.0,False,1.0,False
+38001,c5.18xlarge,Compute optimized,Windows,281.0,72,144.0,144,EBS only,Intel Xeon Platinum 8124M,9000.0,False,25.0,False
+38338,m4.10xlarge,General purpose,Linux,124.5,40,160.0,80,EBS only,Intel Xeon E5-2676 v3 (Haswell),4000.0,False,10.0,False
+38736,m4.2xlarge,General purpose,SUSE,26.0,8,32.0,16,EBS only,Intel Xeon E5-2676 v3 (Haswell),1000.0,False,1.0,False
+38917,p3.2xlarge,GPU instance,RHEL,26.0,8,61.0,16,EBS only,Intel Xeon E5-2686 v4 (Broadwell),1750.0,False,10.0,True
+39033,p3.16xlarge,GPU instance,SUSE,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,25.0,False
+39297,r4.4xlarge,Memory optimized,Windows,53.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3000.0,False,10.0,True
+39391,c4.large,Compute optimized,SUSE,8.0,2,3.75,4,EBS only,Intel Xeon E5-2666 v3 (Haswell),500.0,False,0.3,False
+39590,m4.2xlarge,General purpose,Windows,26.0,8,32.0,16,EBS only,Intel Xeon E5-2676 v3 (Haswell),1000.0,False,1.0,False
+39602,p2.xlarge,GPU instance,Linux,12.0,4,61.0,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),,False,1.0,False
+40021,m4.10xlarge,General purpose,Windows,124.5,40,160.0,80,EBS only,Intel Xeon E5-2676 v3 (Haswell),4000.0,False,10.0,False
+40211,c5.9xlarge,Compute optimized,Linux,141.0,36,72.0,72,EBS only,Intel Xeon Platinum 8124M,4500.0,False,10.0,False
+40641,g3.16xlarge,GPU instance,RHEL,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,20.0,False
+40732,r4.xlarge,Memory optimized,Linux,13.5,4,30.5,8,EBS only,Intel Xeon E5-2686 v4 (Broadwell),800.0,False,10.0,True
+40892,c5.large,Compute optimized,Linux,9.0,2,4.0,4,EBS only,Intel Xeon Platinum 8124M,2250.0,True,10.0,True
+41957,m4.xlarge,General purpose,Windows,13.0,4,16.0,8,EBS only,Intel Xeon E5-2676 v3 (Haswell),750.0,False,1.0,False
+42467,c4.large,Compute optimized,Windows,8.0,2,3.75,4,EBS only,Intel Xeon E5-2666 v3 (Haswell),500.0,False,0.3,False
+42703,r4.16xlarge,Memory optimized,RHEL,195.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),12000.0,False,20.0,False
+42830,c4.xlarge,Compute optimized,Windows,16.0,4,7.5,8,EBS only,Intel Xeon E5-2666 v3 (Haswell),750.0,False,1.0,False
+42852,m5.2xlarge,General purpose,SUSE,31.0,8,32.0,16,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+42887,m5.2xlarge,General purpose,Linux,31.0,8,32.0,16,EBS only,Intel Xeon Platinum 8175,2120.0,True,10.0,True
+44172,c5.18xlarge,Compute optimized,SUSE,281.0,72,144.0,144,EBS only,Intel Xeon Platinum 8124M,9000.0,False,25.0,False
+44469,m4.2xlarge,General purpose,Linux,26.0,8,32.0,16,EBS only,Intel Xeon E5-2676 v3 (Haswell),1000.0,False,1.0,False
+44596,g3.16xlarge,GPU instance,SUSE,188.0,64,488.0,128,EBS only,Intel Xeon E5-2686 v4 (Broadwell),14000.0,False,20.0,False
+45035,g3.4xlarge,GPU instance,RHEL,47.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3500.0,False,10.0,True
+45353,c4.8xlarge,Compute optimized,Windows,132.0,36,60.0,64,EBS only,Intel Xeon E5-2666 v3 (Haswell),4000.0,False,10.0,False
+45380,r4.4xlarge,Memory optimized,RHEL,53.0,16,122.0,32,EBS only,Intel Xeon E5-2686 v4 (Broadwell),3000.0,False,10.0,True
